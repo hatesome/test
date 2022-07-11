@@ -1,7 +1,9 @@
 .adsbalance {
- display: block;
+  display: block;
   background: lemonchiffon;
   widows: 100px;
   height: 200px;
+  display: flex;
+  font-size: 14px;
 }
 
