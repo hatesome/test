@@ -19,7 +19,9 @@
 .asd {
   text-align: center;
 }
-body
+body {
+  margin: 0;
+}
 .body {
   display: flex;
   width: 100%;
