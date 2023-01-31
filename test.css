@@ -12,12 +12,12 @@ body {
   background: url(/test/HQoQ4T0XUdc.jpg);
   background-size: contain;
   background-position: center;
+  align-items: center;
 }
 
 .start-title {
   font-size: 42px;
   font-weight: bold; 
   color: var(--primary-color);
-
   color:#0000FF;
 }
