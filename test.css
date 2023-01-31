@@ -16,3 +16,7 @@ body {
   background-size: contain;
   background-position: center;
 }
+
+.main-title {
+  font-size: 42px;
+}
