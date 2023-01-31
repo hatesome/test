@@ -21,4 +21,5 @@ body {
   font-weight: bold; 
   color: var(--primary-color);
   color:#0000FF;
+  margin: 50px 0;
 }
