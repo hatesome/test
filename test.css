@@ -13,6 +13,7 @@ body {
   background-size: contain;
   background-position: center;
   align-items: center;
+  justify-content: center;
 }
 
 .start-title {
