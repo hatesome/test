@@ -1,9 +1,6 @@
-
-.asd {
-  text-align: center;
-}
-.asd {
-  text-align: center;
+:root {
+  --primary-color: #0000FF;
+  
 }
 body {
   margin: 0;
@@ -20,4 +17,5 @@ body {
 .start-title {
   font-size: 42px;
   font-weight: bold; 
+  color: var(--primary-color);
 }
